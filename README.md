@@ -1,3 +1,5 @@
+**Development of the Placenames ontology is continuing in https://github.com/CSIRO-enviro-informatics/Place-Names which itself is a fork from the [primary repository for the Placenames ontology](https://github.com/GeoscienceAustralia/Place-Names) owned by Geoscience AUstralia** 
+
 # Place Names Ontology
 This ontology describes Place names that are used in the Composite Gazetteer of Australia. Place names are natural and artificial features and are all represented by points. Actual Place names are managed by multiple jurisdictions around Australia, while this ontology provides a meta model to bring their data together in one Linked Data collection.
 
